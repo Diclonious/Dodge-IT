@@ -1,0 +1,6 @@
+"E:\Programs\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Programs/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja C:\Users\anabe\CLionProjects\new
+-- Could NOT find Vulkan (missing: VULKAN_LIBRARY VULKAN_INCLUDE_DIR) 
+-- Using Win32 for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/anabe/CLionProjects/new/cmake-build-debug
